@@ -1,4 +1,6 @@
-# Tre3-
-Project Tre3
+Tre3
+=======
 
-By: Tony Martinez, Jarred Stein, Anthony Jordan Bell, Alfredo Garcia
+Creating smarter waste disposal solutions for the world
+
+Check out http://tre3.tech
